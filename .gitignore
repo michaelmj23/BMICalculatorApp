@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Build results
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+
+# MAUI specific
+platforms/**/bin/
+platforms/**/obj/
+
+# OS files
+.DS_Store
+Thumbs.db
